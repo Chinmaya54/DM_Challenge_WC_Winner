@@ -276,12 +276,11 @@ Source:The dataset presented here was obtained through the process of web scrapi
 Prediction:
 
 Prediction of playing eleven for Team India:-
+
 ![final1](https://github.com/Chinmaya54/DM_Challenge_WC_Winner/assets/75682006/ed9a6fcf-198b-4e0c-8f72-3a8ce47d379b)
 
 Prediction of playing eleven for Team Australia:-
+
 ![final2](https://github.com/Chinmaya54/DM_Challenge_WC_Winner/assets/75682006/4df1ebb8-9146-4df7-b270-598f9724dde0)
 
-![6](https://github.com/Chinmaya54/DM_Challenge_WC_Winner/assets/75682006/d09b55af-3ced-4c7d-a27f-b507f1f844a8)
-Prediction of playing eleven for Team Australia:-
-![7](https://github.com/Chinmaya54/DM_Challenge_WC_Winner/assets/75682006/3daf0551-87fa-48e9-ab83-a26942733926)
 
