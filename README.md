@@ -207,10 +207,11 @@ SR (Strike Rate): The average number of balls bowled per wicket taken by the pla
 Fours: The total number of times the player's deliveries were hit for four runs by the batsmen.
 
 Fives: The total number of times the player took five wickets in a single inning.
+![8](https://github.com/Chinmaya54/DM_Challenge_WC_Winner/assets/75682006/d16acbae-175f-48ba-8895-8bf4db00a083)
 
-![1](https://github.com/Chinmaya54/DM_Challenge_WC_Winner/assets/75682006/bc9e47e2-afc4-4893-883a-a5287a9c81d8)
 
-Task 2.1: Predicting the Finalist Teams 
+Task 2.1 and 3 : Predicting the Finalist Teams and Winner 
+
 
 You are required to predict the two finalist teams in the ICC Cricket World Cup 2023
 
@@ -245,6 +246,7 @@ Prediction For Winner
 
 We have used two approaches: 
 Considering the problem statement as Multiclass Classification task
+File : Final_ICC_WC23_predictions.ipynb 
 Prediction : 
 Finalists :
 <img width="265" alt="2" src="https://github.com/Chinmaya54/DM_Challenge_WC_Winner/assets/75682006/e56479a6-5195-4ecd-8603-60e97424b212">
