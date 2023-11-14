@@ -262,6 +262,11 @@ Prediction :
 ![5](https://github.com/Chinmaya54/DM_Challenge_WC_Winner/assets/75682006/f38f9dc5-dc01-454f-8ba4-bc539804cb9a)
 
 Task 2.2: Predicting the finalist teams 
+File : 
+
+Batting Dataset Link: : https://drive.google.com/file/d/1v6YTvUfGlPnohr0DtIcBQ2vQmAAtt-jY/view?usp=sharing
+Bowling Dataset Link: https://drive.google.com/file/d/1hs5pvLrj-vpCWEfRPSnFgK58ZOdiS1Nr/view?usp=sharing
+Source:The dataset presented here was obtained through the process of web scraping from ESPNcricinfo, a prominent and reliable source for comprehensive cricket-related information. Web scraping is a technique that automates the extraction of data from web pages, allowing us to compile a detailed dataset on various aspects of cricket matches. ESPNcricinfo, being a renowned platform, provides up-to-date and in-depth statistics, including the number of matches played, matches won and lost, points earned, and net run rate for each country. Through this web scraping process, we aim to deliver accurate and timely insights into the performance of cricket-playing nations, enabling a thorough analysis of team dynamics and tournament standings.
 
 Batting Dataset Link: : https://drive.google.com/file/d/1v6YTvUfGlPnohr0DtIcBQ2vQmAAtt-jY/view?usp=sharing
 Bowling Dataset Link: https://drive.google.com/file/d/1hs5pvLrj-vpCWEfRPSnFgK58ZOdiS1Nr/view?usp=sharing
@@ -271,6 +276,11 @@ Source:The dataset presented here was obtained through the process of web scrapi
 Prediction:
 
 Prediction of playing eleven for Team India:-
+![final1](https://github.com/Chinmaya54/DM_Challenge_WC_Winner/assets/75682006/ed9a6fcf-198b-4e0c-8f72-3a8ce47d379b)
+
+Prediction of playing eleven for Team Australia:-
+![final2](https://github.com/Chinmaya54/DM_Challenge_WC_Winner/assets/75682006/4df1ebb8-9146-4df7-b270-598f9724dde0)
+
 ![6](https://github.com/Chinmaya54/DM_Challenge_WC_Winner/assets/75682006/d09b55af-3ced-4c7d-a27f-b507f1f844a8)
 Prediction of playing eleven for Team Australia:-
 ![7](https://github.com/Chinmaya54/DM_Challenge_WC_Winner/assets/75682006/3daf0551-87fa-48e9-ab83-a26942733926)
