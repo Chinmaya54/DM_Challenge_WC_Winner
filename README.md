@@ -39,7 +39,7 @@ Heatmap
 
 Contributions : 
 
-Chinmaya (202218054)
+Chinmaya (202218054) 
 TASK 2 and 3 : Predicting Finalist and Winner (Multiclass Classification)
 
 
@@ -77,7 +77,8 @@ Kashish (202001425)
 
 
 
-Task 1 : 
+Task 1 :  
+FILE : Data_Mining(Scrapped)_CP_03_Riya.ipynb
 ML pipeline
 Feature selection using correlation analysis
 Splitting of data
@@ -130,6 +131,7 @@ Fours: The total number of times the player's deliveries were hit for four runs 
 
 Fives: The total number of times the player took five wickets in a single inning.
 
+![1](https://github.com/Chinmaya54/DM_Challenge_WC_Winner/assets/75682006/9de7d024-dddc-419e-9cd6-5b401835fea9)
 
 
 
@@ -158,6 +160,8 @@ CT (Catches): The total number of catches taken by the player.
 Max: The maximum number of catches taken by the player in a single match.
 
 Ct/Inns (Catches per Inning): The average number of catches taken by the player per fielding inning.
+
+<img width="265" alt="2" src="https://github.com/Chinmaya54/DM_Challenge_WC_Winner/assets/75682006/ff3a6302-15d0-4b36-ad73-7ba443a12c3d">
 
 
 
@@ -254,3 +258,18 @@ Considering the problem statement as Regression task
 Prediction : 
 ![4](https://github.com/Chinmaya54/DM_Challenge_WC_Winner/assets/75682006/ff0669e2-0532-4027-b0ac-444354dcd1ef)
 ![5](https://github.com/Chinmaya54/DM_Challenge_WC_Winner/assets/75682006/f38f9dc5-dc01-454f-8ba4-bc539804cb9a)
+
+Task 2.2: Predicting the finalist teams 
+
+Batting Dataset Link: : https://drive.google.com/file/d/1v6YTvUfGlPnohr0DtIcBQ2vQmAAtt-jY/view?usp=sharing
+Bowling Dataset Link: https://drive.google.com/file/d/1hs5pvLrj-vpCWEfRPSnFgK58ZOdiS1Nr/view?usp=sharing
+Source:The dataset presented here was obtained through the process of web scraping from ESPNcricinfo, a prominent and reliable source for comprehensive cricket-related information. Web scraping is a technique that automates the extraction of data from web pages, allowing us to compile a detailed dataset on various aspects of cricket matches. ESPNcricinfo, being a renowned platform, provides up-to-date and in-depth statistics, including the number of matches played, matches won and lost, points earned, and net run rate for each country. Through this web scraping process, we aim to deliver accurate and timely insights into the performance of cricket-playing nations, enabling a thorough analysis of team dynamics and tournament standings."
+
+
+Prediction:
+
+Prediction of playing eleven for Team India:-
+![6](https://github.com/Chinmaya54/DM_Challenge_WC_Winner/assets/75682006/d09b55af-3ced-4c7d-a27f-b507f1f844a8)
+Prediction of playing eleven for Team Australia:-
+![7](https://github.com/Chinmaya54/DM_Challenge_WC_Winner/assets/75682006/3daf0551-87fa-48e9-ab83-a26942733926)
+
