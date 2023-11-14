@@ -161,7 +161,7 @@ Max: The maximum number of catches taken by the player in a single match.
 
 Ct/Inns (Catches per Inning): The average number of catches taken by the player per fielding inning.
 
-<img width="265" alt="2" src="https://github.com/Chinmaya54/DM_Challenge_WC_Winner/assets/75682006/ff3a6302-15d0-4b36-ad73-7ba443a12c3d">
+![ctinns](https://github.com/Chinmaya54/DM_Challenge_WC_Winner/assets/75682006/e0e34d47-f6cc-4ce6-88ab-4393c79aaed9)
 
 
 
@@ -249,12 +249,12 @@ Considering the problem statement as Multiclass Classification task
 File : Final_ICC_WC23_predictions.ipynb 
 Prediction : 
 Finalists :
+
 <img width="265" alt="2" src="https://github.com/Chinmaya54/DM_Challenge_WC_Winner/assets/75682006/e56479a6-5195-4ecd-8603-60e97424b212">
 
 Choosing ANN Model Predicted finalists
 Based on the finalists 
 Winner :
-<img width="196" alt="3" src="https://github.com/Chinmaya54/DM_Challenge_WC_Winner/assets/75682006/2cf1a202-8cc2-448b-a5ef-6df57d11d845">
 
 Considering the problem statement as Regression task
 Prediction : 
