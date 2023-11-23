@@ -7,7 +7,7 @@ By Group -16**
 PROJECT PIPELINE
 
 -> Understanding of Data (Problem Statement)<br/>
-- Data collection: through scrapping from websites , extracting existing dataset from Kaggle , Manipulating dataset by merging two datasets.
+-- Data collection: through scrapping from websites , extracting existing dataset from Kaggle , Manipulating dataset by merging two datasets.
 
 -> Data Preprocessing - checked null values, attribute types, duplicate values etc
 
@@ -187,10 +187,10 @@ _Description_ : This dataset provides comprehensive information about ODI cricke
 -> Splitting of data<br/>
 -> Scaling of data<br/>
 -> Model Training on historic data<br/>
-               → Logistic Regression 
-               → Decision tree Classifier
-               → Random Forest Classifier
-               → ANN
+               → Logistic Regression  
+               → Decision tree Classifier  
+               → Random Forest Classifier  
+               → ANN  
 -> Model Evaluation and Testing<br/>
 -> Prediction for finalist<br/> 
 -> Prediction For Winner<br/>
@@ -207,10 +207,11 @@ Choosing _ANN Model_<br/>
 Predicted finalists:<br/> 
 **_India and Australia_**<br/>
 
-
-<img width="249" alt="image" src="https://github.com/Chinmaya54/DM_Challenge_WC_Winner/assets/137144018/3eca8e39-6c7e-45d4-9ead-77340fa04db9">
 Based on the finalists<br/> 
 _**Winner :**_<br/>
+
+<img width="249" alt="image" src="https://github.com/Chinmaya54/DM_Challenge_WC_Winner/assets/137144018/3eca8e39-6c7e-45d4-9ead-77340fa04db9">
+
 _**AUSTRALIA :(**_
 
 
@@ -243,15 +244,15 @@ Choosen API : FastAPI<br/>
 _**File: FastAPI.zip**_<br/>
 Best ANN model is deployed using the FastAPI<br/>
 **STEPS:**<br/>
-Step 1: Install FastAPI and Uvicorn
-Step 2: Create a FastAPI object
-Step 3: Design Your API, **file : main.py**
-Step 4: Define an ML Endpoint
-Step 5: Run the FastAPI Application Locally
-Step 6: Integrate ANN Model , **file: modelInference.py**
-For this we have created an additional API endpoint /predict_winner that uses the loaded ANN model(pkl file) to predict the winner of a match based on the provided input data (team1, team2, venue).
-Step 7: Test the Endpoint using Thunder Client
-URL- [http://127.0.0.1:8000/predict_winner](http://127.0.0.1:8000/winnerpredict)http://127.0.0.1:8000/winnerpredict
+Step 1: Install FastAPI and Uvicorn<br/> 
+Step 2: Create a FastAPI object<br/>   
+Step 3: Design Your API, **file : main.py**<br/> 
+Step 4: Define an ML Endpoint<br/> 
+Step 5: Run the FastAPI Application Locally<br/> 
+Step 6: Integrate ANN Model , **file: modelInference.py**<br/> 
+For this we have created an additional API endpoint /predict_winner that uses the loaded ANN model(pkl file) to predict the winner of a match based on the provided input data (team1, team2, venue).<br/> 
+Step 7: Test the Endpoint using Thunder Client<br/> 
+URL- [http://127.0.0.1:8000/predict_winner](http://127.0.0.1:8000/winnerpredict)http://127.0.0.1:8000/winnerpredict<br/> 
 
 **RESPONSES:**
 <img width="956" alt="semi1" src="https://github.com/kashish1203/project/assets/75682006/47ad85d2-f25f-4f6a-bb07-7191f4f3795e">
